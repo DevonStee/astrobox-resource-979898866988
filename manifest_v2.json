@@ -27,24 +27,24 @@
   ],
   "downloads": {
     "xmb11": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb11nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb10": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb10nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 0
+      "versionCode": 1
     }
   },
   "ext": {
