@@ -27,47 +27,79 @@
     }
   ],
   "downloads": {
-    "xmb9p": {
-      "version": "0.0.0",
+    "xmb10p": {
+      "version": "0.0.1",
       "file_name": "downloads/Pebble Reels Pro.face",
-      "versionCode": 0,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "0.0.0",
           "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
         }
       ]
     },
-    "xmb10p": {
-      "version": "0.0.0",
+    "xmb9p": {
+      "version": "0.0.1",
       "file_name": "downloads/Pebble Reels Pro.face",
-      "versionCode": 0,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "0.0.0",
           "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "0.0.2",
+      "file_name": "downloads/Pebble Reels.bin",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "0.0.2",
+      "file_name": "downloads/Pebble Reels.bin",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
         }
       ]
     },
     "xmb11": {
-      "version": "0.0.1",
+      "version": "0.0.2",
       "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 1
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "0.0.1",
+      "version": "0.0.2",
       "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 1
-    },
-    "xmb10": {
-      "version": "0.0.1",
-      "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 1
-    },
-    "xmb10nfc": {
-      "version": "0.0.1",
-      "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 1
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
     }
   },
   "ext": {
