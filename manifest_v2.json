@@ -27,6 +27,82 @@
     }
   ],
   "downloads": {
+    "xmb10": {
+      "version": "0.0.4",
+      "file_name": "downloads/Pebble Reels.bin",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.4",
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "0.0.4",
+      "file_name": "downloads/Pebble Reels.bin",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.4",
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "0.0.4",
+      "file_name": "downloads/Pebble Reels.bin",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.4",
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "0.0.4",
+      "file_name": "downloads/Pebble Reels.bin",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.4",
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
+        }
+      ]
+    },
     "xmb10p": {
       "version": "0.0.2",
       "file_name": "downloads/Pebble Reels Pro.face",
@@ -62,66 +138,6 @@
         {
           "version": "0.0.2",
           "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿；修复小米手环 9 Pro 上开机后反复重启的问题；修复长按切换表盘时预览图超出边框"
-        }
-      ]
-    },
-    "xmb10": {
-      "version": "0.0.3",
-      "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.2",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
-        }
-      ]
-    },
-    "xmb10nfc": {
-      "version": "0.0.3",
-      "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.2",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
-        }
-      ]
-    },
-    "xmb11": {
-      "version": "0.0.3",
-      "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.2",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
-        }
-      ]
-    },
-    "xmb11nfc": {
-      "version": "0.0.3",
-      "file_name": "downloads/Pebble Reels.bin",
-      "versionCode": 3,
-      "updatelogs": [
-        {
-          "version": "0.0.2",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
-        },
-        {
-          "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
         }
       ]
     }
