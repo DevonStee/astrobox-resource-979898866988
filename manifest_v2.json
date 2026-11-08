@@ -29,13 +29,17 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Pebble Reels RW6.face",
-      "versionCode": 0,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "0.0.0",
           "content": "新增 REDMI Watch 6 支持"
+        },
+        {
+          "version": "0.0.1",
+          "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
         }
       ]
     },
